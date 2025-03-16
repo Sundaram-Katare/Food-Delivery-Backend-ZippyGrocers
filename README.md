@@ -8,20 +8,24 @@ ZippyGrocers is a **quick-commerce (q-commerce) website** built with **React** a
 - ⚡ **Real-time Data Fetching from Backend**
 - 🔥 **Smooth User Experience with Tailwind CSS**
 - 💡 **Lightweight Backend using Node.js & Express**
-- 🛍️ **Add to Cart Functionality** *(Upcoming Feature)*
+- 🛍️ **Add to Cart Functionality** 
 
 ## 📸 Preview
-![ZippyGrocers Screenshot](your-screenshot-url.png)  
-*(Replace with an actual screenshot of your project)*
+![image](https://github.com/user-attachments/assets/dbdf3560-4373-43c2-aa33-cc5120621c20)
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Data Storage:** Array of Objects (No Database)
 
-## 🚀 Getting Started
+## 🚀 Getting Started (Backend APIs)
+- **Snacks** https://food-delivery-backend-zippy-grocers.vercel.app/api/snacks
+- **Diary** https://food-delivery-backend-zippy-grocers.vercel.app/api/diary
+- **Drinks** https://food-delivery-backend-zippy-grocers.vercel.app/api/drinks
+- **skinCare** https://food-delivery-backend-zippy-grocers.vercel.app/api/skinCare
 
 ### 🔧 Installation
 1. **Clone the repository**  
     ```sh
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/Sundaram-Katare/Food-Delivery-Backend-ZippyGrocers
